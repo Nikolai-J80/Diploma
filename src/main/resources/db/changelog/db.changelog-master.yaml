@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - changeSet:
+      id: migrations
+      author: Author
+  - include:
+      file: migration/data.sql
+      relativeToChangelogFile: true

@@ -18,8 +18,6 @@ BACKEND написан на Java с использованием Spring Boot.
 
 - Для запуска используется docker, docker-compose.
 
-- Код покрыт unit-тестами с использованием mockito.
-
 - Есть интеграционный тест с использованием testcontainers.
 
 
